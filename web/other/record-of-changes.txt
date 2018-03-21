@@ -1,0 +1,190 @@
+0.10 Hello World
+Modified @author tag
+Added GNU GPL 3.0 License Header
+Simple "Hello World!" application using Java Server Pages
+
+0.11 Detect browser and redirect to appropriate view
+Created desktopHome "Hello World!" view
+Created mobileHome "Hello Mobile!" view
+Created model package com.quickemr.models
+Created Utilities class and added it to the models package
+Added isMobile() method to Utilities to detect mobile browsers
+Created controller package com.quickemr.controllers
+Created index servlet controller and added it to the controllers package
+Modified doGet() method in index to call isMobile() and redirect the HTTP request to the appropriate view
+Modified web.xml to make index.java the welcome-file
+Deleted index.jsp
+
+0.12 SQLite database integration and display data
+Added sqlite.jdbc-3.18.0.jar to Libraries
+Added connectToDatabase() method to Utilities class
+Created medications.db (see phase1-sql.sql file) and added it to the models package
+Created Medications class and added it to the models package
+Created DataAccess class and added it to the models package
+Added selectMedicationsByGenericName() method to the DataAccess class
+Modified header information in desktopHome and mobileHome views
+Added header, main, and footer semantic elements to both views
+Modified both views to call selectMedicationsByGenericName() and display retrieved data
+
+0.13 Added CSS and tablesorter JavaScript filter/sort functionality
+Created js folder and added jquery-3.2.1.min.js and jquery.tablesorter.combined.js
+Created css folder and style.css
+Added theme.blue.css to css folder
+Modified the desktopHome and mobileHome views to use css and tablesorter JavaScript IOT add sort and filter functionality
+Added noscript warning and search box to both views
+Added up-down-arrow.png
+
+v0.14 Separated desktop view
+Separated style.css into desktopStyle.css and mobileStyle.css
+Modified desktopHome view by changing stylesheet to desktopStyle.css
+Added under-construction.png
+Created desktopDetails view
+Modified desktopHome view by adding links to desktopDetails view for each medication
+
+v0.15 Separated mobile view
+Modified mobileHome view by changing stylesheet to mobileStyle.css
+Added button.png
+Added getPattern() method to Utilities class
+Added two selectAllMedications() methods (overloaded) to DataAccess class
+Created mobileKeypad view
+Modified mobileHome view by adding links to mobileKeypad view for each button
+Created mobileResults view
+Modified mobileKeypad view by adding links to mobileResults view for each button
+Created mobileDetails view
+Modified mobileResults view by adding links to mobileDetails view for each medication
+Deleted style.css
+
+v0.16 Populated medication detail pages
+Modified medications.db by adding additional conditions, action, DEA Schedule, side effects, interactions, warnings
+Modified Medications class by adding new elements and overloading the constructor
+Modified DataAccess class to use MEDCOMP table in medications.db
+Added selectMedicationDetails method to DataAccess class
+Modified desktopHome to send query string to desktopDetails
+Modified desktopDetails to display medication information
+Formated desktopDetails css
+Modified mobileHome to send query string to mobileDetails
+Modified mobileDetails to display medication information
+Formated mobileDetails css
+
+v0.17 Distribution to AWS
+Uploaded to AWS for live test
+
+v0.18 Switch to normalized SQL tables and added Lookup By Condition functionality
+Added ConList class to DataAccess
+Rewrote DataAccess methods to use normalized MEDICATIONS, CONDITIONS, and MEDCON junction tables
+Created Conditions class
+Renamed mobileDetails.jsp to mobileMedDetails.jsp
+Created mobileConDetails.jsp
+Renamed getMedicationDetails method to selectMedicationDetails
+Added selectConditionDetails and selectMedicationsInCondition methods to DataAccess
+Edited phase1-sql.sql
+Minor presentation and css changes
+
+v0.19 Javadoc updates
+Renamed selectMedicationsinCondition to selectMedicationsInCondition
+Fixed comments and updated Javadoc
+Fixed Copyright template in desktop views
+
+v0.20 Fixed issues found during testing
+Fixed selectMedicationDetails method to use MEDICATIONS table
+Added jstl-1.2.jar to Libraries
+Replaced all scriplets with JSTL
+Fixed issues identified by Visual Code Grepper
+Fixed issues identified by OWASP ZAP
+Added error page and 404 page
+Ensured all ResultSets, PreparedStatements, and Connections are closed
+Added mobile vs desktop check to each view
+
+v0.21 Authentication and Authorization Part I
+Added javax.mail.jar to Libraries
+Removed all try-catch blocks; error.jsp will handle all exceptions and errors
+Created users.db (see phase2-sql.sql file) and added it to the models package
+Created login view
+Created loginAuthenticate.jsp
+Created adminMenu view
+Implemented NIST security controls
+AU-3 - CONTENT OF AUDIT RECORDS 
+AU-8 - TIME STAMPS
+AC-3 - ACCESS ENFORCEMENT
+AU-2 - AUDIT EVENTS
+SI-10 - INFORMATION INPUT VALIDATION
+SC-13 - CRYPTOGRAPHIC PROTECTION
+
+v0.22 Distribution to AWS
+Fixed additional XSS vulnerabilities using JSTL
+Deactivated event log to use app on AWS Elastic Beanstalk
+Uploaded to AWS for live test
+
+v0.30 Created CRUD views
+Removed WITHOUT ROWID restrictions from database tables
+Fixed UserName variable misspelling
+Added NEWLOGIN column to USERS table
+Modified Users class by adding newLogin string
+Modified DataAccess class by adding newLogin string
+Added adminEditProfile.jsp and adminUpdatePassword.jsp
+Added Medication admin page shells:
+adminListMedications.jsp
+adminEditMedication.jsp?medID=XX
+adminAddMedication.jsp
+Added Condition admin page shells:
+adminListConditions.jsp
+adminEditCondition.jsp?conID=XX
+adminAddCondition.jsp
+Added User admin page shells:
+adminListUser.jsp
+adminEditUser.jsp?userID=XX
+adminAddUser.jsp
+Added Medication Database Update shell:
+adminUpdateDatabase.jsp
+Added Event Log
+adminEventLog.jsp
+Updated unit test files
+
+v0.31 Added CRUD functionality
+Fixed authorization for all admin pages
+Added logout.jsp and logout button to all admin pages
+Added adminCreateCondition.jsp
+Added adminCreateMedication.jsp
+Added adminUpdateCondition.jsp
+Added adminUpdateMedication.jsp
+Added insertMedication(), updateMedication(), deleteMedication() to DataAccess class
+Added insertCondition(), updateCondition(), deleteCondition() to DataAccess class
+Added create, update, and delete functionality to
+adminEditMedication.jsp?medID=XX
+adminAddMedication.jsp
+adminEditCondition.jsp?conID=XX
+adminAddCondition.jsp
+
+v0.32 Minor updates
+
+v0.40 Corrected validation issues
+Fixed condition validation (e.g., duplicates, blanks, etc.) in the following views:
+adminAddMedication.jsp
+adminCreateMedication.jsp
+adminEditMedication.jsp
+adminUpdateMedication.jsp
+Fixed MEDCON table issues in DataAccess.java
+Fixed, but disabled Delete User in adminEditUser.jsp and adminUpdateUser.jsp
+Fixed Reset Password in adminEditUser.jsp and adminUpdateUser.jsp
+Updated adminAddUser.jsp and adminCreateUser.jsp
+Added Roles class
+Updated JUnit tests
+
+v0.41 Generated Javadoc
+Generated Javadoc and uploaded to AWS
+
+v0.42 Finalizing functionality and implementing User Story #7
+Fixed issues identified by IntelliJ scan
+Added phase4-sql.sql to project under WEB/OTHER
+Removed all single quotes from spreadsheet (mostly possessives) to allow SQL UPDATE
+Ran SQL UPDATE for WARNINGS, MAJOR ADVERSE REACTIONS, and OVERDOSAGE in MEDICATIONS table
+Used placeholders for WARNINGS, MAJOR ADVERSE REACTIONS, and OVERDOSAGE for Metoclopramide, Lisinopril+HCTZ, Losartan+HCTZ, Ibuprofen, and Naproxen
+Used placeholder for Carvedilol OVERDOSAGE
+Ran SQL UPDATE for DESCRIPTION in CONDITIONS table
+Used placeholders for DESCRIPTION for Heartburn and Urinary Retention
+Changed "Side Effects" to "Overdosage" in adminAddMedication.jsp, adminEditMedication.jsp, desktopDetails.jsp, mobileMedDetails.jsp
+Add Condition links to desktopHome.jsp and mobileMedDetails.jsp
+Added desktopConDetails.jsp
+Temporarily activated Event Log link for documentation
+Cretaed User Guide.pdf in WEB/OTHER
+Generated Javadoc and uploaded to AWS

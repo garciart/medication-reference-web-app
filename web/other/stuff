@@ -1,0 +1,40 @@
+                <form action="" method="post">
+                    <p><input type="submit" name="submit" value="Delete User" style="display: inline;" onclick="return alert('Delete user disabled to prevent lockout!');"></p>
+                </form>
+
+INSERT INTO MEDICATIONS...
+INSERT INTO CONDITIONS...
+UPDATE MEDICATIONS SET...
+UPDATE CONDITIONS SET...
+DELETE FROM MEDICATIONS WHERE...
+INSERT INTO USERS VALUES...
+UPDATE USERS SET...
+DELETE FROM USERS WHERE...
+
+<tr>
+    <td class="detailsTD"><h2>Conditions:</h2></td>
+    <td>
+        <h2>
+        <select name="cond1">
+            <option value=""></option>
+            <c:forEach items="${cons}" var="c">
+                <option ${c.condition == m.cond1 ? 'selected' : ''} value="${c.conID}">${c.condition}</option>
+            </c:forEach>
+        </select>
+        </h2><h2>
+        <select name="cond2">
+            <option value=""></option>
+            <c:forEach items="${cons}" var="c">
+                <option ${c.condition == m.cond2 ? 'selected' : ''} value="${c.conID}">${c.condition}</option>
+            </c:forEach>
+        </select>
+        </h2><h2>
+        <select name="cond3">
+            <option value=""></option>
+            <c:forEach items="${cons}" var="c">
+                <option ${c.condition == m.cond3 ? 'selected' : ''} value="${c.conID}">${c.condition}</option>
+            </c:forEach>
+        </select>
+        </h2>
+    </td>
+</tr>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/error.jsp</file>
+    <line>26</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/error.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unknown HTML tag attribute</problem_class>
+    <description>Attribute itemprop is not allowed here</description>
+  </problem>
+</problems>
+

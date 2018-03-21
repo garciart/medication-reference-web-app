@@ -1,0 +1,21 @@
+@startuml
+actor User
+actor Editor
+actor Administrator
+actor System
+boundary Anonymous
+boundary "User Functions"
+boundary "Editor Functions"
+boundary "Administrator Functions"
+control "Sort Medications by Generic Name or Brand Name"
+control "Search for a Medication or Condition"
+entity "Medications Database"
+entity "User Database"
+
+User -> Anonymous : To boundary
+User -> "Sort Medications by Generic Name or Brand Name" : To control
+User -> "Search for a Medication or Condition" : To control
+Editor -> "Editor Functions" : To boundary
+Administrator -> "Administrator Functions" : To boundary
+
+@enduml

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <line>47</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="field" FQNAME="com.quickemr.models.Utilities userCode" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant String constructor call</problem_class>
+    <description>&lt;code&gt;new String()&lt;/code&gt; is redundant #loc</description>
+  </problem>
+</problems>
+

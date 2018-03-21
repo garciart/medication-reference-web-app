@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>516</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript assignment</problem_class>
+    <description>The value assigned is never used #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1276</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript assignment</problem_class>
+    <description>Variable might not have been initialized #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1273</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript assignment</problem_class>
+    <description>Variable might not have been initialized #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1287</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript assignment</problem_class>
+    <description>Variable might not have been initialized #loc</description>
+  </problem>
+</problems>
+

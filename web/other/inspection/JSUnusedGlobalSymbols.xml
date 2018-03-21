@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>663</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript global symbol</problem_class>
+    <description>Unused property addInstanceMethods</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1041</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript global symbol</problem_class>
+    <description>Unused property getColumnText</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1875</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript global symbol</problem_class>
+    <description>Unused property sortNaturalAsc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1883</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript global symbol</problem_class>
+    <description>Unused property sortNaturalDesc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1892</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript global symbol</problem_class>
+    <description>Unused property sortText</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1913</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript global symbol</problem_class>
+    <description>Unused property sortNumericAsc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1923</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript global symbol</problem_class>
+    <description>Unused property sortNumericDesc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2417</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript global symbol</problem_class>
+    <description>Unused property clearTableBody</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3497</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript global symbol</problem_class>
+    <description>Unused property notMatch</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3562</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript global symbol</problem_class>
+    <description>Unused property wild</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3583</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript global symbol</problem_class>
+    <description>Unused property fuzzy</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3843</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused JavaScript / ActionScript global symbol</problem_class>
+    <description>Unused property formatterUpdated</description>
+  </problem>
+</problems>
+

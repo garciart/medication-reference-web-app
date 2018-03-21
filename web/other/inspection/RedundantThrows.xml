@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/controllers/index.java</file>
+    <line>45</line>
+    <module>quickemr</module>
+    <package>com.quickemr.controllers</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.controllers.index void processRequest(javax.servlet.http.HttpServletRequest request, javax.servlet.http.HttpServletResponse response)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant throws clause</problem_class>
+    <hints>
+      <hint value="ServletException" />
+    </hints>
+    <description>The declared exception &lt;code&gt;ServletException&lt;/code&gt; is never thrown</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <line>124</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Utilities void logEvent(java.lang.String logEntry)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant throws clause</problem_class>
+    <hints>
+      <hint value="IOException" />
+    </hints>
+    <description>The declared exception &lt;code&gt;IOException&lt;/code&gt; is never thrown</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <line>141</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Utilities java.util.ArrayList readEventLog()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant throws clause</problem_class>
+    <hints>
+      <hint value="FileNotFoundException" />
+    </hints>
+    <description>The declared exception &lt;code&gt;FileNotFoundException&lt;/code&gt; is never thrown</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <line>141</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Utilities java.util.ArrayList readEventLog()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Redundant throws clause</problem_class>
+    <hints>
+      <hint value="IOException" />
+    </hints>
+    <description>The declared exception &lt;code&gt;IOException&lt;/code&gt; is never thrown</description>
+  </problem>
+</problems>
+

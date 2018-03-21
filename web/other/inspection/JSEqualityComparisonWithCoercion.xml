@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>783</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Equality operator may cause type coercion</problem_class>
+    <description>Comparison name == 'false' may cause unexpected type coercion #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3523</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Equality operator may cause type coercion</problem_class>
+    <description>Comparison filter == data.iExact may cause unexpected type coercion #loc</description>
+  </problem>
+</problems>
+

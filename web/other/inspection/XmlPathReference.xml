@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/error.jsp</file>
+    <line>12</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/error.jsp" />
+    <problem_class severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">File path resolving in XML</problem_class>
+    <description>Cannot resolve file 'desktopHead.jsp'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/error.jsp</file>
+    <line>29</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/error.jsp" />
+    <problem_class severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">File path resolving in XML</problem_class>
+    <description>Cannot resolve file 'desktopFooter.jsp'</description>
+  </problem>
+</problems>
+

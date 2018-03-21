@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2367</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2369</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2371</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2447</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2448</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2448</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2456</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2456</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2478</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2473</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2477</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2478</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2478</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2479</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3746</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3747</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>4354</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>4355</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unfiltered for..in loop</problem_class>
+    <description>Possible iteration over unexpected (custom / inherited) members, probably missing hasOwnProperty check</description>
+  </problem>
+</problems>
+

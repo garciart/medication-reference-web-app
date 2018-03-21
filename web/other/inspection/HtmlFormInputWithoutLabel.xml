@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditProfile.jsp</file>
+    <line>64</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditProfile.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditProfile.jsp</file>
+    <line>66</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditProfile.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddCondition.jsp</file>
+    <line>58</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddCondition.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddCondition.jsp</file>
+    <line>60</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddCondition.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>66</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>68</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>70</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>75</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>82</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>89</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>100</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>101</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>105</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>107</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>109</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>111</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddMedication.jsp</file>
+    <line>60</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddMedication.jsp</file>
+    <line>62</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddMedication.jsp</file>
+    <line>64</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddMedication.jsp</file>
+    <line>69</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddMedication.jsp</file>
+    <line>76</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddMedication.jsp</file>
+    <line>83</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddMedication.jsp</file>
+    <line>94</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddMedication.jsp</file>
+    <line>95</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddMedication.jsp</file>
+    <line>99</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddMedication.jsp</file>
+    <line>101</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddMedication.jsp</file>
+    <line>103</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddMedication.jsp</file>
+    <line>105</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddUser.jsp</file>
+    <line>60</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddUser.jsp</file>
+    <line>65</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/login.jsp</file>
+    <line>33</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/login.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/login.jsp</file>
+    <line>34</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/login.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditCondition.jsp</file>
+    <line>65</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditCondition.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditCondition.jsp</file>
+    <line>67</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditCondition.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Form input without an associated label or title attribute</problem_class>
+    <description>Form input without an associated label or title attribute</description>
+  </problem>
+</problems>
+
