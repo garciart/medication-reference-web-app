@@ -24,6 +24,17 @@
         <noscript>
             <p class="warningText">(Javascript disabled. Please enable Javascript for full functionality)</p>
         </noscript>
+        <script>
+            if (!window.confirm(
+                    "* * * * * * * * * * * * * * * W A R N I N G * * * * * * * * * * * * * * *\n" +
+                    "This computer system is for authorized use only. Use of this system\n" +
+                    "constitutes consent to monitoring at all times. If monitoring of this\n"+
+                    "systems reveals violations of security regulations or unauthorized use,\n" +
+                    "your priviledges will be immediately terminated. Do you wish to continue?\n" +
+                    "* * * * * * * * * * * * * * * W A R N I N G * * * * * * * * * * * * * * *")) { 
+                window.location.replace("${pageContext.request.contextPath}/desktopHome.jsp");
+            }
+        </script>
         <header>
             <a href="${pageContext.request.contextPath}/desktopHome.jsp" title="Return to Home Page"><h1>Quick Electronic Medical Reference</h1></a>
             <h2>Login Page</h2>

@@ -188,3 +188,9 @@ Added desktopConDetails.jsp
 Temporarily activated Event Log link for documentation
 Cretaed User Guide.pdf in WEB/OTHER
 Generated Javadoc and uploaded to AWS
+
+v1.0 Initial commit from school project
+
+v1.1 Corrected .gitattributes and login warning
+.gitattributes ignores nbproject and web/other folder (documentation)
+Added login warning
