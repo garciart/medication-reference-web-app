@@ -6,10 +6,10 @@ Simple "Hello World!" application using Java Server Pages
 0.11 Detect browser and redirect to appropriate view
 Created desktopHome "Hello World!" view
 Created mobileHome "Hello Mobile!" view
-Created model package com.quickemr.models
+Created model package com.quickmeds.models
 Created Utilities class and added it to the models package
 Added isMobile() method to Utilities to detect mobile browsers
-Created controller package com.quickemr.controllers
+Created controller package com.quickmeds.controllers
 Created index servlet controller and added it to the controllers package
 Modified doGet() method in index to call isMobile() and redirect the HTTP request to the appropriate view
 Modified web.xml to make index.java the welcome-file

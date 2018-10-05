@@ -11,7 +11,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Quick EMR | Authentication Page</title>
+        <title>QMR | Authentication Page</title>
         <jsp:include page="masters/desktopHead.jsp" />
     </head>
     <body>
@@ -25,7 +25,7 @@
             <p class="warningText">(Javascript disabled. Please enable Javascript for full functionality)</p>
         </noscript>
         <header>
-            <a href="${pageContext.request.contextPath}/desktopHome.jsp" title="Return to Home Page"><h1>Quick Electronic Medical Reference</h1></a>
+            <a href="${pageContext.request.contextPath}/desktopHome.jsp" title="Return to Home Page"><h1>Quick Medication Reference</h1></a>
             <h2>Logout Page</h2>
         </header>
         <main>

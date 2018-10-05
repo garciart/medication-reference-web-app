@@ -11,7 +11,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Quick Electronic Medical Reference</title>
+        <title>Quick Medication Reference</title>
         <jsp:include page="masters/desktopHead.jsp" />
         <link type="text/css" href="${pageContext.request.contextPath}/css/theme.blue.css" rel="stylesheet"/>
         <script type="text/javascript" src="${pageContext.request.contextPath}/js/jquery.tablesorter.combined.js"></script>
@@ -41,13 +41,13 @@
             <p class="warningText">(Javascript disabled. Please enable Javascript for full functionality)</p>
         </noscript>
         <header>
-            <a href="${pageContext.request.contextPath}/desktopHome.jsp" title="Return to Home Page"><h1>Quick Electronic Medical Reference</h1></a>
+            <a href="${pageContext.request.contextPath}/desktopHome.jsp" title="Return to Home Page"><h1>Quick Medication Reference</h1></a>
             <h2>Desktop View - Current as of 2017</h2>
         </header>
         <main style="text-align: left; width: 100%;">
             <div class="searchBox"><b>Search: <input class="search" type="search" placeholder="Search" data-column="all" /></b></div>
             <!-- Get data from model and display on page -->
-            <jsp:useBean id="dataAccess" class="com.quickemr.models.DataAccess">
+            <jsp:useBean id="dataAccess" class="com.quickmeds.models.DataAccess">
                 <jsp:setProperty name="dataAccess" property="*" />
             </jsp:useBean>
             <c:set var="meds" value='${dataAccess.selectMedicationsByGenericName()}' />

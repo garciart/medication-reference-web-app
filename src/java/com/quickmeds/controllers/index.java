@@ -14,9 +14,9 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-package com.quickemr.controllers;
+package com.quickmeds.controllers;
 
-import com.quickemr.models.Utilities;
+import com.quickmeds.models.Utilities;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

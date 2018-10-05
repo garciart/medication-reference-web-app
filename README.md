@@ -1,4 +1,4 @@
-# Project Quick Medication Reference (Quick EMR)
+# Project Quick Medication Reference (QMR)
 The Quick Medication Reference allows providers in the field to quickly identify commonly-prescribed medications to extrapolate patient histories and provide rapid and correct care.
 <h2>Table of Contents:</h2>
 <ul>

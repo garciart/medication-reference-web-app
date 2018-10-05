@@ -11,7 +11,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Quick EMR | Authentication Page</title>
+        <title>QMR | Authentication Page</title>
         <jsp:include page="masters/desktopHead.jsp" />
     </head>
     <body>
@@ -25,7 +25,7 @@
             <p class="warningText">(Javascript disabled. Please enable Javascript for full functionality)</p>
         </noscript>
         <header>
-            <a href="${pageContext.request.contextPath}/desktopHome.jsp" title="Return to Home Page"><h1>Quick Electronic Medical Reference</h1></a>
+            <a href="${pageContext.request.contextPath}/desktopHome.jsp" title="Return to Home Page"><h1>Quick Medication Reference</h1></a>
             <h2>Authentication Page</h2>
         </header>
         <main>
@@ -36,10 +36,10 @@
                 </c:redirect>
             </c:if>
             <c:if test="${not empty fn:escapeXml(param.userName) and not empty fn:escapeXml(param.pword)}">
-                <jsp:useBean id="utilities" class="com.quickemr.models.Utilities">
+                <jsp:useBean id="utilities" class="com.quickmeds.models.Utilities">
                     <jsp:setProperty name="utilities" property="*" />
                 </jsp:useBean>
-                <jsp:useBean id="dataAccess" class="com.quickemr.models.DataAccess">
+                <jsp:useBean id="dataAccess" class="com.quickmeds.models.DataAccess">
                     <jsp:setProperty name="dataAccess" property="*" />
                 </jsp:useBean>
                 <!-- Authenticate user and set session variables -->

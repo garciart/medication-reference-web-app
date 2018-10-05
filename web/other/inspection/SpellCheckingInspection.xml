@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <problems>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/controllers/index.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/controllers/index.java</file>
     <line>2</line>
-    <module>quickemr</module>
-    <package>com.quickemr.controllers</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/controllers/index.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.controllers</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/controllers/index.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'rgarcia'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/controllers/index.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/controllers/index.java</file>
     <line>2</line>
-    <module>quickemr</module>
-    <package>com.quickemr.controllers</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/controllers/index.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.controllers</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/controllers/index.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'umuc'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/controllers/index.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/controllers/index.java</file>
     <line>48</line>
-    <module>quickemr</module>
-    <package>com.quickemr.controllers</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/controllers/index.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.controllers</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/controllers/index.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'DOCTYPE'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/controllers/index.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/controllers/index.java</file>
     <line>60</line>
-    <module>quickemr</module>
-    <package>com.quickemr.controllers</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/controllers/index.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.controllers</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/controllers/index.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'defaultstate'</description>
   </problem>
@@ -44,288 +44,288 @@
     <description>Typo: In word 'cmsc'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>2</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'rgarcia'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>2</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'umuc'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>56</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'mobi'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>112</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'sqlite'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>113</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'cmsc'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>115</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'sqlite'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>126</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'bufferedwriter'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>128</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'eventlog'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>144</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'eventlog'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>163</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'SMTP'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>165</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'smtp'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>166</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'smtp'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>166</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'starttls'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>167</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'smtp'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>167</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'smtp'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>167</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'gmail'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>168</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'smtp'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>169</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'smtp'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>169</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'creditials'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>170</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'smtp'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>188</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'CMSC'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>264</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'Punko'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>283</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'Zabcdefghijklmnopqrstuvwxyz'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Medications.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Medications.java</file>
     <line>2</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Medications.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Medications.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'rgarcia'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Medications.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Medications.java</file>
     <line>2</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Medications.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Medications.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'umuc'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Users.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Users.java</file>
     <line>2</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Users.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Users.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'rgarcia'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Users.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Users.java</file>
     <line>2</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Users.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Users.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'umuc'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Conditions.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Conditions.java</file>
     <line>2</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Conditions.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Conditions.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'rgarcia'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Conditions.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Conditions.java</file>
     <line>2</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Conditions.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Conditions.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'umuc'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Roles.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Roles.java</file>
     <line>2</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Roles.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Roles.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'rgarcia'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Roles.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Roles.java</file>
     <line>2</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/Roles.java" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/Roles.java" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'umuc'</description>
   </problem>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/smtpInfo.txt</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/smtpInfo.txt</file>
     <line>2</line>
-    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickemr/models/smtpInfo.txt" />
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/com/quickmeds/models/smtpInfo.txt" />
     <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
     <description>Typo: In word 'XXXXXXXXXX'</description>
   </problem>

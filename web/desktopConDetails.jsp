@@ -11,7 +11,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Quick EMR | Medication Details</title>
+        <title>QMR | Medication Details</title>
         <jsp:include page="masters/desktopHead.jsp" />
     </head>
     <body>
@@ -25,7 +25,7 @@
             <p class="warningText">(Javascript disabled. Please enable Javascript for full functionality)</p>
         </noscript>
         <header>
-            <a href="${pageContext.request.contextPath}/desktopHome.jsp" title="Return to Home Page"><h1>Quick Electronic Medical Reference</h1></a>
+            <a href="${pageContext.request.contextPath}/desktopHome.jsp" title="Return to Home Page"><h1>Quick Medication Reference</h1></a>
             <h2>Condition Details</h2>
             <form action="${pageContext.request.contextPath}/desktopHome.jsp">
                 <input type="submit" value="Home" />
@@ -36,7 +36,7 @@
             <c:if test="${!((fn:escapeXml(param.conID)).matches('[0-9]+'))}">
                 <c:redirect url="/desktopHome.jsp"/>
             </c:if>
-            <jsp:useBean id="dataAccess" class="com.quickemr.models.DataAccess">
+            <jsp:useBean id="dataAccess" class="com.quickmeds.models.DataAccess">
                 <jsp:setProperty name="dataAccess" property="*" />
             </jsp:useBean>
             <c:set var="c" value='${dataAccess.selectConditionDetails(param.conID)}' />

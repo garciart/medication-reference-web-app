@@ -14,7 +14,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-package com.quickemr.models;
+package com.quickmeds.models;
 
 import javax.mail.*;
 import javax.mail.internet.InternetAddress;
@@ -35,7 +35,7 @@ import java.util.Date;
 import java.util.Properties;
 import java.util.Random;
 
-import static com.quickemr.models.DataAccess.selectUser;
+import static com.quickmeds.models.DataAccess.selectUser;
 import java.net.InetAddress;
 import java.net.MalformedURLException;
 import java.net.URLConnection;
@@ -112,7 +112,7 @@ public final class Utilities {
      */    
     public static Connection connectToDatabase(String dbName) throws ClassNotFoundException, SQLException {
         Class.forName("org.sqlite.JDBC");
-        // Look for database in the com.quickemr.models package
+        // Look for database in the com.quickmeds.models package
         URL url = Utilities.class.getResource(dbName);
         return DriverManager.getConnection("jdbc:sqlite::resource:" + url);
     }
@@ -183,7 +183,7 @@ public final class Utilities {
         Message message = new MimeMessage(session);
         message.setFrom(new InternetAddress("rgarcia92@student.umuc.edu"));
         message.setRecipients(Message.RecipientType.TO, InternetAddress.parse(emailAddress));
-        message.setSubject("Quick EMR Login Code");
+        message.setSubject("QMR Login Code");
         message.setText(String.format("Welcome back!\n"
                 + "Your login code is: %s.\n"
                 + "If you did not request a login code, please contact us at "

@@ -12,7 +12,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Quick EMR | Admin Menu</title>
+        <title>QMR | Admin Menu</title>
         <jsp:include page="masters/adminHead.jsp" />
     </head>
     <body>
@@ -30,15 +30,15 @@
             <p class="warningText">(Javascript disabled. Please enable Javascript for full functionality)</p>
         </noscript>
         <header>
-            <a href="${pageContext.request.contextPath}/desktopHome.jsp" title="Return to Home Page"><h1>Quick Electronic Medical Reference</h1></a>
+            <a href="${pageContext.request.contextPath}/desktopHome.jsp" title="Return to Home Page"><h1>Quick Medication Reference</h1></a>
             <h2>Update User</h2>
         </header>
         <main>
             <c:catch var="catchException">
-            <jsp:useBean id="dataAccess" class="com.quickemr.models.DataAccess">
+            <jsp:useBean id="dataAccess" class="com.quickmeds.models.DataAccess">
                 <jsp:setProperty name="dataAccess" property="*" />
             </jsp:useBean>
-            <jsp:useBean id="utilities" class="com.quickemr.models.Utilities">
+            <jsp:useBean id="utilities" class="com.quickmeds.models.Utilities">
                 <jsp:setProperty name="utilities" property="*" />
             </jsp:useBean>
             <div style="text-align: left; width: 100%;">

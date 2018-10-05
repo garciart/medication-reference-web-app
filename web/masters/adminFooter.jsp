@@ -7,5 +7,5 @@
 <%@ page import="java.time.LocalDate" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <hr>
-<p>Quick Electronic Medical Reference (Quick EMR)</p>
+<p>Quick Medication Reference (QMR)</p>
 <p>Copyright &copy; <% out.println((LocalDate.now().getYear() == 2017) ? "2017" : "2017 - " + String.valueOf(LocalDate.now().getYear())); %> Robert Garcia - All Rights Reserved</p>

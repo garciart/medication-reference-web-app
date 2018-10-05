@@ -12,7 +12,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Quick Electronic Medical Reference</title>
+        <title>Quick Medication Reference</title>
         <link href="${pageContext.request.contextPath}/css/mobileStyle.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
@@ -22,7 +22,7 @@
             <c:redirect url="/desktopHome.jsp"/>
         </c:if>
         <header>
-            <a href="${pageContext.request.contextPath}/mobileHome.jsp" title="Return to Home Page"><h1>Quick Electronic Medical Reference</h1></a>
+            <a href="${pageContext.request.contextPath}/mobileHome.jsp" title="Return to Home Page"><h1>Quick Medication Reference</h1></a>
         </header>
         <main>
             <h1>Condition Details Page</h1>
@@ -30,7 +30,7 @@
             <c:if test="${!((fn:escapeXml(param.conID)).matches('[0-9]+'))}">
                 <c:redirect url="/mobileHome.jsp"/>
             </c:if>
-            <jsp:useBean id="dataAccess" class="com.quickemr.models.DataAccess">
+            <jsp:useBean id="dataAccess" class="com.quickmeds.models.DataAccess">
                 <jsp:setProperty name="dataAccess" property="*" />
             </jsp:useBean>
             <c:set var="c" value='${dataAccess.selectConditionDetails(param.conID)}' />

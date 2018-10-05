@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <problems>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/Utilities.java</file>
     <line>119</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="method" FQNAME="com.quickemr.models.Utilities void logEvent(java.lang.String logEntry)" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickmeds.models.Utilities void logEvent(java.lang.String logEntry)" />
     <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
     <hints>
       <hint value="false" />

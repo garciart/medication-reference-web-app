@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <problems>
   <problem>
-    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <file>file://$PROJECT_DIR$/src/com/quickmeds/models/DataAccess.java</file>
     <line>504</line>
-    <module>quickemr</module>
-    <package>com.quickemr.models</package>
-    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.lang.Boolean updateUserLastLogin(int userID, java.lang.String lastLogin, java.lang.String newLogin)" />
+    <module>quickmeds</module>
+    <package>com.quickmeds.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickmeds.models.DataAccess java.lang.Boolean updateUserLastLogin(int userID, java.lang.String lastLogin, java.lang.String newLogin)" />
     <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method can be void</problem_class>
     <hints />
     <description>Return value of the method is never used</description>

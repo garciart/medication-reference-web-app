@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Quick EMR | Error Page</title>
+        <title>QMR | Error Page</title>
         <jsp:include page="masters/desktopHead.jsp" />
     </head>
     <body>
@@ -19,7 +19,7 @@
         <main>
             <h2>We're sorry, but the following error has occurred:</h2>
             <h2 class="errorText">${pageContext.exception.getMessage()}</h2>
-            <jsp:useBean id="utilities" class="com.quickemr.models.Utilities">
+            <jsp:useBean id="utilities" class="com.quickmeds.models.Utilities">
                 <jsp:setProperty name="utilities" property="*" />
             </jsp:useBean>
             ${utilities.logEvent(pageContext.exception)}
