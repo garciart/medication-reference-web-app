@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1264</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single character alternation</problem_class>
+    <description>Single character alternation in RegExp</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1641</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single character alternation</problem_class>
+    <description>Single character alternation in RegExp</description>
+  </problem>
+</problems>
+

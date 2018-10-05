@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditProfile.jsp</file>
+    <line>70</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditProfile.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditProfile.jsp</file>
+    <line>74</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditProfile.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddCondition.jsp</file>
+    <line>50</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddCondition.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddCondition.jsp</file>
+    <line>54</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddCondition.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminListConditions.jsp</file>
+    <line>69</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminListConditions.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminListConditions.jsp</file>
+    <line>73</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminListConditions.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminMenu.jsp</file>
+    <line>74</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminMenu.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminMenu.jsp</file>
+    <line>78</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminMenu.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>51</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>55</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminListMedications.jsp</file>
+    <line>69</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminListMedications.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminListMedications.jsp</file>
+    <line>73</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminListMedications.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddMedication.jsp</file>
+    <line>48</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddMedication.jsp</file>
+    <line>52</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditUser.jsp</file>
+    <line>69</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditUser.jsp</file>
+    <line>73</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddUser.jsp</file>
+    <line>48</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddUser.jsp</file>
+    <line>52</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/login.jsp</file>
+    <line>37</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/login.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/login.jsp</file>
+    <line>41</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/login.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditCondition.jsp</file>
+    <line>52</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditCondition.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditCondition.jsp</file>
+    <line>56</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditCondition.jsp" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated HTML tag</problem_class>
+    <description>Deprecated HTML tag #loc</description>
+  </problem>
+</problems>
+

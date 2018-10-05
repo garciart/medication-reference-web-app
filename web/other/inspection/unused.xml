@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <line>124</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Utilities void logEvent(java.lang.String logEntry)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused declaration</problem_class>
+    <hints>
+      <hint value="logEntry" />
+    </hints>
+    <description>Parameter &lt;code&gt;logEntry&lt;/code&gt; is not used  in either this method or any of its derived methods</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <line>161</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Utilities void sendCode(java.lang.String emailAddress)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Medications.java</file>
+    <line>137</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Medications java.lang.String getInteractions()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Medications.java</file>
+    <line>40</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Medications Medications()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Constructor has usage(s) but they all belong to calls chain that has no members reachable from entry points.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Medications.java</file>
+    <line>109</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Medications java.lang.String getAction()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Medications.java</file>
+    <line>60</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Medications Medications(int medID, java.lang.String gName, java.lang.String bName, java.lang.String action, java.lang.String cond1, java.lang.String cond2, java.lang.String cond3, int dea, int btFlag, java.lang.String side_effects, java.lang.String interactions, java.lang.String warnings)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Constructor is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Medications.java</file>
+    <line>86</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Medications Medications(int medID, java.lang.String gName, java.lang.String bName, java.lang.String cond1, java.lang.String cond2, java.lang.String cond3, int btFlag)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Constructor has usage(s) but they all belong to calls chain that has no members reachable from entry points.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Medications.java</file>
+    <line>141</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Medications java.lang.String getWarnings()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Medications.java</file>
+    <line>133</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Medications java.lang.String getSide_Effects()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Medications.java</file>
+    <line>125</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Medications int getDEA()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>285</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess com.quickemr.models.Medications selectMedicationDetails(int medID)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>760</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.lang.Boolean insertCondition(java.lang.String condition, java.lang.String description)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>846</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.lang.Boolean updateMedConTable(int medID, int conID)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>905</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess.ConList void setCondition(java.lang.String condition)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>222</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.util.ArrayList&lt;com.quickemr.models.Medications&gt; selectMedicationsByGenericName()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>786</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.lang.Boolean updateCondition(int conID, java.lang.String condition, java.lang.String description)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>43</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.util.ArrayList&lt;com.quickemr.models.Medications&gt; selectAllMedications()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>822</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.lang.Boolean insertIntoMedConTable(int conID)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>401</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess com.quickemr.models.Conditions selectConditionDetails(int conID)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>130</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.util.ArrayList&lt;com.quickemr.models.Medications&gt; selectAllMedications(int keypadLetterGroup)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>627</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.lang.Boolean deleteUser(int userID)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>901</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess.ConList void setMedID(int medID)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>578</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.lang.Boolean insertUser(java.lang.String userName, int roleID)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>339</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.util.ArrayList&lt;com.quickemr.models.Conditions&gt; selectAllConditions()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>609</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.lang.Boolean updateUserRole(int userID, java.lang.String role)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>434</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.util.ArrayList&lt;com.quickemr.models.Medications&gt; selectMedicationsInCondition(int conID)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>716</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.lang.Boolean updateMedication(int medID, java.lang.String gName, java.lang.String bName, java.lang.String action, int dea, int btFlag, java.lang.String side_effects, java.lang.String interactions, java.lang.String warnings)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>643</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.util.ArrayList&lt;com.quickemr.models.Roles&gt; selectAllRoles()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>805</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.lang.Boolean deleteCondition(int conID)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>741</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.lang.Boolean deleteMedication(int medID)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>541</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.util.ArrayList&lt;com.quickemr.models.Users&gt; selectAllUsers()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>886</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess.ConList ConList(int medID, java.lang.String condition)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Constructor has usage(s) but they all belong to calls chain that has no members reachable from entry points.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>367</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.util.ArrayList&lt;com.quickemr.models.Conditions&gt; selectAllConditions(int keypadLetterGroup)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>678</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.lang.Boolean insertMedication(java.lang.String gName, java.lang.String bName, java.lang.String action, int btFlag, int dea, java.lang.String side_effects, java.lang.String interactions, java.lang.String warnings)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Users.java</file>
+    <line>84</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Users int getLockedOut()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Users.java</file>
+    <line>68</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Users java.lang.String getUserName()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Users.java</file>
+    <line>88</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Users java.lang.String getLastLogin()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Users.java</file>
+    <line>72</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Users java.lang.String getRole()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Method is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Conditions.java</file>
+    <line>48</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Conditions int getConID()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Conditions.java</file>
+    <line>31</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Conditions Conditions()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Constructor has usage(s) but they all belong to calls chain that has no members reachable from entry points.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Conditions.java</file>
+    <line>41</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Conditions Conditions(int conID, java.lang.String condition, java.lang.String description)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Constructor has usage(s) but they all belong to calls chain that has no members reachable from entry points.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Conditions.java</file>
+    <line>56</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Conditions java.lang.String getDescription()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Conditions.java</file>
+    <line>52</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Conditions java.lang.String getCondition()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Roles.java</file>
+    <line>61</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Roles void setRoleID(int roleID)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Roles.java</file>
+    <line>31</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Roles Roles()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Constructor is never used.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Roles.java</file>
+    <line>69</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Roles void setDescription(java.lang.String description)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Roles.java</file>
+    <line>41</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Roles Roles(int roleID, java.lang.String role, java.lang.String description)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>Constructor has usage(s) but they all belong to calls chain that has no members reachable from entry points.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Roles.java</file>
+    <line>65</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Roles void setRole(java.lang.String role)" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Roles.java</file>
+    <line>52</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Roles java.lang.String getRole()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Roles.java</file>
+    <line>48</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Roles int getRoleID()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Roles.java</file>
+    <line>56</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Roles java.lang.String getDescription()" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+    <hints>
+      <hint value="comment" />
+      <hint value="delete" />
+    </hints>
+    <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+  </problem>
+</problems>
+

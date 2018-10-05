@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditProfile.jsp</file>
+    <line>53</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditProfile.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectUser'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditProfile.jsp</file>
+    <line>55</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditProfile.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'userName' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditProfile.jsp</file>
+    <line>56</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditProfile.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'role' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditProfile.jsp</file>
+    <line>57</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditProfile.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'lockedOut' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditProfile.jsp</file>
+    <line>58</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditProfile.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'lastLogin' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditProfile.jsp</file>
+    <line>67</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditProfile.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'userName' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileResults.jsp</file>
+    <line>34</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileResults.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectAllMedications'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileResults.jsp</file>
+    <line>58</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileResults.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectAllConditions'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/loginAuthenticate.jsp</file>
+    <line>48</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/loginAuthenticate.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectUser'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/loginAuthenticate.jsp</file>
+    <line>50</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/loginAuthenticate.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'userName' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/loginAuthenticate.jsp</file>
+    <line>51</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/loginAuthenticate.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'role' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/loginAuthenticate.jsp</file>
+    <line>52</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/loginAuthenticate.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'lockedOut' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/loginAuthenticate.jsp</file>
+    <line>53</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/loginAuthenticate.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'lastLogin' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/loginAuthenticate.jsp</file>
+    <line>54</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/loginAuthenticate.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve variable 'String' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEventLog.jsp</file>
+    <line>37</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEventLog.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve variable 'utilities' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileMedDetails.jsp</file>
+    <line>33</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileMedDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectMedicationDetails'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileMedDetails.jsp</file>
+    <line>36</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileMedDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'GName' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileMedDetails.jsp</file>
+    <line>38</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileMedDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'BName' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileMedDetails.jsp</file>
+    <line>40</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileMedDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'action' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileMedDetails.jsp</file>
+    <line>43</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileMedDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'cond1' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileMedDetails.jsp</file>
+    <line>44</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileMedDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'cond2' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileMedDetails.jsp</file>
+    <line>45</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileMedDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'cond3' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileMedDetails.jsp</file>
+    <line>52</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileMedDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'BTFlag' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileMedDetails.jsp</file>
+    <line>52</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileMedDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'BTFlag' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileMedDetails.jsp</file>
+    <line>53</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileMedDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'DEA' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileMedDetails.jsp</file>
+    <line>53</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileMedDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'DEA' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileMedDetails.jsp</file>
+    <line>53</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileMedDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'DEA' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileMedDetails.jsp</file>
+    <line>53</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileMedDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'DEA' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileMedDetails.jsp</file>
+    <line>56</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileMedDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'side_Effects' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileMedDetails.jsp</file>
+    <line>58</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileMedDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'interactions' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileMedDetails.jsp</file>
+    <line>60</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileMedDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'warnings' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminUpdateMedication.jsp</file>
+    <line>44</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminUpdateMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'deleteMedication'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminUpdateMedication.jsp</file>
+    <line>87</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminUpdateMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'updateMedication' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminUpdateMedication.jsp</file>
+    <line>100</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminUpdateMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'deleteFromMedConTable' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminUpdateMedication.jsp</file>
+    <line>105</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminUpdateMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'updateMedConTable' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminUpdateMedication.jsp</file>
+    <line>110</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminUpdateMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'updateMedConTable' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminUpdateMedication.jsp</file>
+    <line>115</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminUpdateMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'updateMedConTable' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminUpdateUser.jsp</file>
+    <line>47</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminUpdateUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'deleteUser'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminCreateCondition.jsp</file>
+    <line>51</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminCreateCondition.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'insertCondition'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminTestPage.jsp</file>
+    <line>51</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminTestPage.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectUser'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminTestPage.jsp</file>
+    <line>52</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminTestPage.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'userID' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminTestPage.jsp</file>
+    <line>53</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminTestPage.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'userName' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminTestPage.jsp</file>
+    <line>54</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminTestPage.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'role' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminTestPage.jsp</file>
+    <line>55</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminTestPage.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'salt' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminTestPage.jsp</file>
+    <line>56</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminTestPage.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'passwordHash' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminTestPage.jsp</file>
+    <line>57</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminTestPage.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'lockedOut' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminTestPage.jsp</file>
+    <line>58</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminTestPage.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'lastLogin' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminTestPage.jsp</file>
+    <line>69</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminTestPage.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectAllUsers'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminTestPage.jsp</file>
+    <line>73</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminTestPage.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'userID' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminTestPage.jsp</file>
+    <line>74</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminTestPage.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'userName' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminTestPage.jsp</file>
+    <line>75</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminTestPage.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'role' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminTestPage.jsp</file>
+    <line>76</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminTestPage.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'salt' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminTestPage.jsp</file>
+    <line>77</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminTestPage.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'passwordHash' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminTestPage.jsp</file>
+    <line>78</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminTestPage.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'lockedOut' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminTestPage.jsp</file>
+    <line>79</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminTestPage.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'lastLogin' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminListConditions.jsp</file>
+    <line>78</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminListConditions.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectAllConditions'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>60</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectMedicationDetails'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>61</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectAllConditions'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>66</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'GName' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>68</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'BName' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>70</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'action' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>78</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'cond1' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>85</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'cond2' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>92</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'cond3' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>100</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'BTFlag' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>101</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'BTFlag' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>105</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'DEA' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>107</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'side_Effects' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>109</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'interactions' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>111</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'warnings' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminUpdateCondition.jsp</file>
+    <line>44</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminUpdateCondition.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'deleteCondition'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminUpdateCondition.jsp</file>
+    <line>63</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminUpdateCondition.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'updateCondition'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminListUsers.jsp</file>
+    <line>72</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminListUsers.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectAllUsers'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminCreateUser.jsp</file>
+    <line>51</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminCreateUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'insertUser'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/desktopDetails.jsp</file>
+    <line>39</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/desktopDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectMedicationDetails'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/desktopDetails.jsp</file>
+    <line>41</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/desktopDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'GName' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/desktopDetails.jsp</file>
+    <line>42</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/desktopDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'BName' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/desktopDetails.jsp</file>
+    <line>43</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/desktopDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'action' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/desktopDetails.jsp</file>
+    <line>47</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/desktopDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'cond1' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/desktopDetails.jsp</file>
+    <line>48</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/desktopDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'cond2' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/desktopDetails.jsp</file>
+    <line>49</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/desktopDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'cond3' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/desktopDetails.jsp</file>
+    <line>52</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/desktopDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'BTFlag' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/desktopDetails.jsp</file>
+    <line>52</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/desktopDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'BTFlag' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/desktopDetails.jsp</file>
+    <line>53</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/desktopDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'DEA' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/desktopDetails.jsp</file>
+    <line>53</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/desktopDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'DEA' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/desktopDetails.jsp</file>
+    <line>53</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/desktopDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'DEA' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/desktopDetails.jsp</file>
+    <line>53</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/desktopDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'DEA' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/desktopDetails.jsp</file>
+    <line>54</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/desktopDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'side_Effects' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/desktopDetails.jsp</file>
+    <line>55</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/desktopDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'interactions' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/desktopDetails.jsp</file>
+    <line>56</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/desktopDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'warnings' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminCreateMedication.jsp</file>
+    <line>73</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminCreateMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'insertMedication' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminCreateMedication.jsp</file>
+    <line>85</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminCreateMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'insertIntoMedConTable' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminCreateMedication.jsp</file>
+    <line>90</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminCreateMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'insertIntoMedConTable' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminCreateMedication.jsp</file>
+    <line>95</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminCreateMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'insertIntoMedConTable' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminListMedications.jsp</file>
+    <line>78</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminListMedications.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectMedicationsByGenericName'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileConDetails.jsp</file>
+    <line>33</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileConDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectConditionDetails'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileConDetails.jsp</file>
+    <line>34</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileConDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectMedicationsInCondition'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileConDetails.jsp</file>
+    <line>37</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileConDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'condition' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileConDetails.jsp</file>
+    <line>39</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileConDetails.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'description' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/error.jsp</file>
+    <line>21</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/error.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'getMessage'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddMedication.jsp</file>
+    <line>56</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddMedication.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectAllConditions'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditUser.jsp</file>
+    <line>51</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectUser'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditUser.jsp</file>
+    <line>53</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'userName' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditUser.jsp</file>
+    <line>54</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'role' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditUser.jsp</file>
+    <line>55</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'salt' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditUser.jsp</file>
+    <line>56</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'passwordHash' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditUser.jsp</file>
+    <line>57</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'lockedOut' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditUser.jsp</file>
+    <line>58</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'lastLogin' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditUser.jsp</file>
+    <line>63</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'userID' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditUser.jsp</file>
+    <line>64</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'userName' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddUser.jsp</file>
+    <line>56</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddUser.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectAllRoles'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditCondition.jsp</file>
+    <line>60</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditCondition.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectConditionDetails'() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditCondition.jsp</file>
+    <line>65</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditCondition.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'condition' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditCondition.jsp</file>
+    <line>67</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditCondition.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve property or method 'description' (dynamic property?) #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/desktopHome.jsp</file>
+    <line>53</line>
+    <package>&lt;default&gt;</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/desktopHome.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">EL Validation In JSP</problem_class>
+    <description>Cannot resolve method 'selectMedicationsByGenericName'() #loc</description>
+  </problem>
+</problems>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>12</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property border-width duplicates property border #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>11</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property border is overwritten #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>12</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property border-width overwrites property border #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>16</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property border is overwritten #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>17</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overwritten property value</problem_class>
+    <description>Property border-width overwrites property border #loc</description>
+  </problem>
+</problems>
+

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/controllers/index.java</file>
+    <line>44</line>
+    <module>quickemr</module>
+    <package>com.quickemr.controllers</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.controllers.index void processRequest(javax.servlet.http.HttpServletRequest request, javax.servlet.http.HttpServletResponse response)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+    <hints>
+      <hint value="private" />
+    </hints>
+    <description>Can be private</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <line>47</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="field" FQNAME="com.quickemr.models.Utilities userCode" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+    <hints>
+      <hint value="private" />
+    </hints>
+    <description>Can be private</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Utilities.java</file>
+    <line>268</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.Utilities void removeBOM(java.io.Reader br)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+    <hints>
+      <hint value="private" />
+    </hints>
+    <description>Can be private</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>864</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="method" FQNAME="com.quickemr.models.DataAccess java.lang.Boolean deleteFromMedConTable(int medID)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+    <hints>
+      <hint value="private" />
+    </hints>
+    <description>Can be private</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/DataAccess.java</file>
+    <line>36</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="class" FQNAME="com.quickemr.models.DataAccess" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+    <hints>
+      <hint value="packageLocal" />
+    </hints>
+    <description>Can be package-private</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/src/com/quickemr/models/Roles.java</file>
+    <line>23</line>
+    <module>quickemr</module>
+    <package>com.quickemr.models</package>
+    <entry_point TYPE="class" FQNAME="com.quickemr.models.Roles" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration access can be weaker</problem_class>
+    <hints>
+      <hint value="packageLocal" />
+    </hints>
+    <description>Can be package-private</description>
+  </problem>
+</problems>
+

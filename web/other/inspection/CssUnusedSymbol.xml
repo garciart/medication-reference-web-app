@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>5</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector tablesorter-blue is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>38</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector tablesorter-header is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>51</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector headerSortUp is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>52</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector tablesorter-headerSortUp is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>53</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector tablesorter-headerAsc is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>62</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector headerSortDown is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>63</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector tablesorter-headerSortDown is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>64</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector tablesorter-headerDesc is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>73</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector sorter-false is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>80</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector tablesorter-headerSortUp is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>81</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector tablesorter-headerSortDown is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>82</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector tablesorter-headerAsc is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>83</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector tablesorter-headerDesc is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>118</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector tablesorter-processing is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>134</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector primary is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>135</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector primary is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>138</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector primary is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>141</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector secondary is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>142</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector secondary is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>145</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector secondary is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>148</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector tertiary is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>149</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector tertiary is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>152</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector tertiary is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>162</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector tablesorter-filter-row is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>202</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector tablesorter-filter is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>203</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector tablesorter-filter is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/theme.blue.css</file>
+    <line>220</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/theme.blue.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector filtered is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/desktopStyle.css</file>
+    <line>33</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/desktopStyle.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector searchBox is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/desktopStyle.css</file>
+    <line>39</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/desktopStyle.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector search is never used</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/css/desktopStyle.css</file>
+    <line>54</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/css/desktopStyle.css" />
+    <problem_class severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused CSS selector</problem_class>
+    <description>Selector listTitleRow is never used</description>
+  </problem>
+</problems>
+

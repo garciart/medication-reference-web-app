@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/masters/desktopFooter.jsp</file>
+    <line>12</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/masters/desktopFooter.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'login.jsp'</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/masters/desktopFooter.jsp</file>
+    <line>12</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/masters/desktopFooter.jsp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">File reference problems</problem_class>
+    <description>Cannot resolve file 'login-key.png'</description>
+  </problem>
+</problems>
+

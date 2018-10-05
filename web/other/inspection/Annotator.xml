@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditProfile.jsp</file>
+    <line>30</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditProfile.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Start tag has wrong closing tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditProfile.jsp</file>
+    <line>30</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditProfile.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditProfile.jsp</file>
+    <line>30</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditProfile.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditProfile.jsp</file>
+    <line>47</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditProfile.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddCondition.jsp</file>
+    <line>36</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddCondition.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Start tag has wrong closing tag #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddCondition.jsp</file>
+    <line>47</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddCondition.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddCondition.jsp</file>
+    <line>64</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddCondition.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminListConditions.jsp</file>
+    <line>61</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminListConditions.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminListConditions.jsp</file>
+    <line>67</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminListConditions.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminMenu.jsp</file>
+    <line>43</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminMenu.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditMedication.jsp</file>
+    <line>47</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditMedication.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminListUsers.jsp</file>
+    <line>60</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminListUsers.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminListUsers.jsp</file>
+    <line>66</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminListUsers.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminListMedications.jsp</file>
+    <line>61</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminListMedications.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminListMedications.jsp</file>
+    <line>67</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminListMedications.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileConDetails.jsp</file>
+    <line>49</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileConDetails.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/mobileConDetails.jsp</file>
+    <line>49</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/mobileConDetails.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddMedication.jsp</file>
+    <line>47</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddMedication.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditUser.jsp</file>
+    <line>45</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditUser.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminAddUser.jsp</file>
+    <line>47</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminAddUser.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/adminEditCondition.jsp</file>
+    <line>47</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/adminEditCondition.jsp" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Closing tag matches nothing #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>194</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3344</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3344</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3349</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3641</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3640</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>179</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>273</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2960</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>177</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>177</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>178</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>179</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3641</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3644</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3644</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>178</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3344</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3344</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3641</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Redundant character escape #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>10</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable or type define #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>10</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable or type define #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>10</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable amd #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>11</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method define() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>12</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable or type module #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>12</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable or type module #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>13</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable or type module #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>13</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method require() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>249</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable metadata #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>294</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>328</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable sortlist #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>329</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable sortlist #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>330</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method metadata() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>330</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method metadata() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>330</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable sortlist #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>331</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method metadata() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>331</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable sortlist #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>711</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable emptyToBottom #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>941</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1066</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1066</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1485</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable appender #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1485</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method appender() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1501</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable appender #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1501</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable pager #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1501</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable pager #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1501</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable removeRows #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1501</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable pager_removeRows #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1501</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable pager #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1509</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable appender #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1510</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method appender() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>1516</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable appender #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2331</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable metadata #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2331</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method metadata() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2569</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable buildTable #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2571</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method buildTable() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2801</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable parserMetadataName #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2801</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable parserMetadataName #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2802</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method metadata() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2820</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2899</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable storageType #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2903</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable useSessionStorage #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>2960</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved function or method toGMTString() #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3195</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3212</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable columns_thead #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3213</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable columns_tfoot #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3235</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3812</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable pager #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>3812</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable pager #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>4156</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable pager #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>4156</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable pager #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>4156</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable pager #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>4919</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable row #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>4920</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable row #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>5299</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>5307</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>5323</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>5324</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>5332</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>5338</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>5339</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>5346</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>5350</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>5378</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable resizer #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>5621</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>5634</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Unresolved variable scrollerWrap #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>5637</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js</file>
+    <line>5658</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/js/jquery.tablesorter.combined.js" />
+    <problem_class severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Annotator</problem_class>
+    <description>Method expression is not of Function type #loc</description>
+  </problem>
+</problems>
+
