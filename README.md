@@ -1,5 +1,5 @@
-# Project Quick Emergency Medical Reference (Quick EMR)
-The Quick EMR allows providers in the field to quickly identify commonly-prescribed medications to extrapolate patient histories and provide rapid and correct care.
+# Project Quick Medication Reference (Quick EMR)
+The Quick Medication Reference allows providers in the field to quickly identify commonly-prescribed medications to extrapolate patient histories and provide rapid and correct care.
 <h2>Table of Contents:</h2>
 <ul>
 <li><a href="#p0">Introduction</a></li>
