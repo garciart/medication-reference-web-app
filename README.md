@@ -131,7 +131,7 @@ I had wanted to create an electronic version of the list for a while, so I decid
 
 ## User Guide
 
-Here is the original [User Guide](README/EMRUserGuide.pdf). Check out the site live at [http://sample-env.h3tq4n7wkp.us-east-1.elasticbeanstalk.com/](http://sample-env.h3tq4n7wkp.us-east-1.elasticbeanstalk.com/).
+Here is the original [User Guide](web/other/EMR%20User%20Guide.pdf). Check out the site live at [http://sample-env.h3tq4n7wkp.us-east-1.elasticbeanstalk.com/](http://sample-env.h3tq4n7wkp.us-east-1.elasticbeanstalk.com/).
 
 ---
 
