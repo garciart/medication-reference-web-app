@@ -2,6 +2,8 @@
 
 The Quick Medication Reference allows providers in the field to quickly identify commonly-prescribed medications to extrapolate patient histories and provide rapid and correct care.
 
+<p align="center"><img src="README/quickmedsweb.gif" alt="Web and Mobile Demo" height="400" /></p>
+
 ## Table of Contents
 
 - [Introduction](#introduction)
