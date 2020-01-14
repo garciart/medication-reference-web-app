@@ -126,10 +126,12 @@ public final class Utilities {
         // AU-3 - CONTENT OF AUDIT RECORDS
         // Write the text using the bufferedwriter to eventLog.txt
         /* DISABLE WHEN RUNNING ON ELASTIC BEANSTALK */
+        /*
         BufferedWriter writer = new BufferedWriter(new FileWriter("eventlog.txt", true));
         writer.append(String.format("%s: %s", ZonedDateTime.now(ZoneOffset.UTC).toString(), logEntry));
         writer.newLine();
         writer.close();
+        */
     }
 
     /**
@@ -140,13 +142,15 @@ public final class Utilities {
     public ArrayList<String> readEventLog() throws IOException {
         ArrayList<String> events = new ArrayList<>();
         /* DISABLE WHEN RUNNING ON ELASTIC BEANSTALK */
+        /*
         BufferedReader reader = new BufferedReader(new FileReader("eventlog.txt"));
         String eventEntry;
         while ((eventEntry = reader.readLine()) != null) {
             events.add(eventEntry);
         }
         reader.close();
-        // events.add("Event Log Disabled on AWS Elastic Beanstalk");
+        */
+        events.add("Event Log Disabled on AWS Elastic Beanstalk");
         return events;
     }
 
